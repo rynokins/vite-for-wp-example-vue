@@ -2,7 +2,7 @@
 
 declare( strict_types = 1 );
 
-namespace Kucrut\ViteForWPExample\Vue\Frontend;
+namespace AG\SassyReactivation\Frontend;
 
 use Kucrut\Vite;
 
